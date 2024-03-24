@@ -158,7 +158,7 @@ def time_stats(df, city, month, day):
               'month for',city.title(),'is:  ', cal.month_name[ind_month], '\n\n')
     
     else:
-        print('The most common month in ',city.title(),' is:  ', 
+        print(__'The most common month in '__,city.title(),' is:  ', 
               cal.month_name[ind_month], '.\n\n')
   
    
