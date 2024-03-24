@@ -8,7 +8,8 @@ Udacity Submission:  Rubrix pdsnd github
 
 ### Description
 Project is to allow travelers the opportunity to compare cities as to the relationship of travel time and the travelers interest. Basic statistical data will be represented to give a travler information needed to have a good experienece.
-
+Details include:
+- Best routes to take in the shortest amount of time. 
 
 ### Files used
 The primary file used for coding and to allow key inputs and to logically provide useful information for a city is the file: 
