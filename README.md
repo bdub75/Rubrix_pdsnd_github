@@ -4,7 +4,7 @@
 Created Project on: 03/24/2024
 
 ### Project Title
-Udacity Submission:  Rubrix pdsnd github
+Udacity Submission: __Rubrix pdsnd github__
 
 ### Description
 Project is to allow travelers the opportunity to compare cities as to the relationship of travel time and the travelers interest. Basic statistical data will be represented to give a travler information needed to have a good experienece.
