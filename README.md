@@ -1,17 +1,25 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+Created Project on: 03/24/2024
 
 ### Project Title
-Replace the Project Title
+Udacity Submission:  Rubrix pdsnd github
 
 ### Description
-Describe what your project is about and what it does
+Project is to allow travelers the opportunity to compare cities as to the relationship of travel time and the travelers interest. Basic statistical data will be represented to give a travler information needed to have a good experienece.
+
 
 ### Files used
-Include the files used
+The primary file used for coding and to allow key inputs and to logically provide useful information for a city is the file: 
+bykeshare.py
+Supporting files are avaialble in .csv format include raw data for:
+New York City
+Chicago
+Washington
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Utilized the following references:
+For style: https://udacity.github.io/git-styleguide/
+For Git Status and Tracking: https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Checking-the-Status-of-Your-Files
+Also for tracking: https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Checking-the-Status-of-Your-Files
