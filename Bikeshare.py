@@ -154,11 +154,11 @@ def time_stats(df, city, month, day):
     
     # Print full name of most common month
     if month != 'all':
-        print('You have selected',month.title(),'. The most common '+
-              'month for',city.title(),'is:  ', cal.month_name[ind_month], '\n\n')
+        print(__'You have selected',month.title(),'. The most common '+
+              'month for',city.title(),'is:  ', cal.month_name[ind_month], '\n\n'__)
     
     else:
-        print(__'The most common month in '__,city.title(),' is:  ', 
+        print('The most common month in ',city.title(),' is:  ', 
               cal.month_name[ind_month], '.\n\n')
   
    
@@ -189,7 +189,7 @@ def time_stats(df, city, month, day):
 
 
 
-
+# DURATION STATISTICS
 
 def duration_stats(df):
     """Displays statistics on the total and average trip duration."""
