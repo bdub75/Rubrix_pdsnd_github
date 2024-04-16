@@ -1,7 +1,7 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Created Project on: 03/24/2024
+Created Project on: 04/16/2024
 
 ### Project Title
 Udacity Submission:  Rubrix pdsnd github
@@ -20,6 +20,7 @@ New York City
 Chicago
 Washington
 _however the .csv files are not being pushed to github_
+
 ### Credits
 Utilized the following references:
 For style: https://udacity.github.io/git-styleguide/
