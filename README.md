@@ -19,7 +19,7 @@ Supporting files are avaialble in .csv format include raw data for:
 New York City
 Chicago
 Washington
-
+_however the .csv files are not being pushed to github_
 ### Credits
 Utilized the following references:
 For style: https://udacity.github.io/git-styleguide/
