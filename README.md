@@ -6,6 +6,18 @@ Updated Project on: 04/16/2024
 ### Project Title
 Udacity Submission: __Rubrix pdsnd github__
 
+## General Information
+***
+Project is used to support compentencies using git and github. The project was established earlier in a udacity course for Bike Rideshare to provide details on destination and popularity for demographics, etc.
+
+## Installation
+***
+A little intro about the use to clone and then contribute.  Pull this repository as a test using bit bash | terminal.  Then provide updates on your local machine.
+```
+$ git clone https://example.com
+$ cd ../<directory>
+$ git pull <branch> <master>
+```
 ### Description
 Project is to allow travelers the opportunity to compare cities as to the relationship of travel time and the travelers interest. Basic statistical data will be represented to give a travler information needed to have a good experienece.
 
