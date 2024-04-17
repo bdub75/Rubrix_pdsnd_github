@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Created on Sun Feb 25 17:58:02 2024
 
@@ -381,4 +380,3 @@ def main():
 
 if __name__ == "__main__":
 	main()
-    
