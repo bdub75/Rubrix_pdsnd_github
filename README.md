@@ -33,7 +33,3 @@ Washington
 ### Credits
 Utilized the following references:
 For style: https://udacity.github.io/git-styleguide/
-For Git Status and Tracking: https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Checking-the-Status-of-Your-Files
-Also for tracking: https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Checking-the-Status-of-Your-Files
-
-
